@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ProtectMe</string>
+
+    <array name="lawsBig">
+
+        <item>Protects consumers from unfair trade practices, defective products, and false advertising.
+
+        </item>
+
+        <item>Protects the personal data of EU citizens, including the right to access, correct, and erase data.
+
+        </item>
+        <item>Consolidates labor laws related to occupational safety and health.
+
+
+        </item>
+        <item>Protects senior citizens from abuse, neglect, and abandonment.
+            Regulates geriatric and medical care for senior citizens.
+
+
+        </item>
+        <item>This act regulates the employment of women and maternity benefits mandated by law. It
+            states that a woman employee who has worked in an organisation for a period of at least
+            80 days during the 12 months preceding the date of her expected delivery is entitled to
+            receive maternity benefits, which includes maternity leave, nursing breaks, medical
+            allowance, etc.
+        </item>
+        <item>The Act came into effect into 1972, was amended in 1975 and 2002. The aim of the Act
+            is to reduce the occurrence of illegal abortion and consequent maternal mortality and
+            morbidity.
+
+            It clearly states the conditions under which a pregnancy can be ended or aborted and
+            specifies the persons qualified to conduct the same.
+        </item>
+
+    </array>
+</resources>

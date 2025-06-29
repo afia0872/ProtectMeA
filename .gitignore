@@ -1,0 +1,22 @@
+# Ignore local configuration
+/local.properties
+
+# Ignore Gradle cache & build outputs
+/.gradle/
+/build/
+/app/build/
+
+# Ignore Android Studio/IDE specific files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Ignore log files and system files
+*.log
+.DS_Store
+
+# Ignore generated files
+captures/
+.externalNativeBuild/
+
