@@ -51,6 +51,3 @@ Follow these steps to run the app on your device or emulator:
    ```bash
    git clone https://github.com/afia0872/ProtectMeA.git
 
-
-## 📂 Folder Structure
-
