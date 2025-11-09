@@ -1,31 +1,33 @@
-# 📱 ProtectMe - Safety App
+# 📱 ProtectMe – Safety App
 
-An Android app built in Java that lets users **contact help quickly and view their location** on Google Maps.
+ProtectMe is an Android app built with **Java** that lets users **quickly contact help** and **view their location** on Google Maps.  
+Designed for safety, quick communication, and peace of mind during emergencies.
 
 ---
 
-## 🔐 Feel Safe, Always.
+## 🔐 Feel Safe, Always
 
-ProtectMe is a simple and user-friendly Android app that helps ensure safety and quick communication in emergencies. Built using Android Studio and integrated with Google Maps.
+A simple and user-friendly Android app that helps ensure safety and rapid communication in critical situations.  
+Built using **Android Studio** and integrated with **Google Maps SDK** for accurate location tracking.
 
 ---
 
 ## 🛠 Built With
 
-- Java
-- Android Studio
-- Google Maps SDK
-- Gradle
-- AndroidX
+- **Java**  
+- **Android Studio**  
+- **Google Maps SDK**  
+- **Gradle**  
+- **AndroidX**
 
 ---
 
 ## 🚀 Features
 
-- 📍 Location pin using Google Maps
-- 📞 Contact form with emergency number
-- ✅ Clean Material Design
-- 💬 Realtime interaction (optional with Firebase)
+- 📍 Real-time location pin using Google Maps  
+- 📞 Quick contact form to call emergency numbers  
+- ✅ Clean Material Design interface  
+- 💬 Optional: Realtime interaction using Firebase  
 
 ---
 
@@ -33,48 +35,22 @@ ProtectMe is a simple and user-friendly Android app that helps ensure safety and
 
 | Main Screen | Home Screen |
 |-------------|-------------|
-| ![Main](./app/src/image/mainpage.jpg) | ![Home](./app/src/image/homepage.jpg) |
-
----
-
-## 📂 Folder Structure
-
-app/
-├── manifests/
-├── java/
-│ └── com.example.yourapp/
-│ ├── MainActivity.java
-│ └── ContactActivity.java
-├── res/
-│ ├── layout/
-│ │ └── activity_main.xml
-│ └── values/
-│ └── strings.xml
+<table>
+  <tr>
+    <td><img src="./app/src/image/mainpage.jpg" alt="Main Screen" width="250"></td>
+    <td><img src="./app/src/image/homepage.jpg" alt="Home Screen" width="250"></td>
+  </tr>
+</table>
 
 
+## ⚙️ How to Run Locally
 
----
+Follow these steps to run the app on your device or emulator:
 
-## 📦 How to Run
-
-1. Clone the repo:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/afia0872/ProtectMeA.git
 
 
-2.Open in Android Studio.
+## 📂 Folder Structure
 
-3.Let Gradle sync and finish dependencies.
-
-4.Connect Android device or emulator.
-
-5.Click ▶️ Run.
-
-⚙ Prerequisites
-Android Studio (latest)
-
-Java JDK 8+
-
-Android SDK (API 26+)
-
-Optional: Firebase for extra features
